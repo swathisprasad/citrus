@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/citrus.iml" filepath="$PROJECT_DIR$/.idea/citrus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/archetypes/citrus-archetypes.iml" filepath="$PROJECT_DIR$/tools/archetypes/citrus-archetypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-arquillian/citrus-arquillian.iml" filepath="$PROJECT_DIR$/modules/citrus-arquillian/citrus-arquillian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-bom/citrus-bom.iml" filepath="$PROJECT_DIR$/modules/citrus-bom/citrus-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-camel/citrus-camel.iml" filepath="$PROJECT_DIR$/modules/citrus-camel/citrus-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-core/citrus-core.iml" filepath="$PROJECT_DIR$/modules/citrus-core/citrus-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-cucumber/citrus-cucumber.iml" filepath="$PROJECT_DIR$/modules/citrus-cucumber/citrus-cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-docker/citrus-docker.iml" filepath="$PROJECT_DIR$/modules/citrus-docker/citrus-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/docs-generator/citrus-docs-generator.iml" filepath="$PROJECT_DIR$/tools/docs-generator/citrus-docs-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-ftp/citrus-ftp.iml" filepath="$PROJECT_DIR$/modules/citrus-ftp/citrus-ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-http/citrus-http.iml" filepath="$PROJECT_DIR$/modules/citrus-http/citrus-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-integration/citrus-integration.iml" filepath="$PROJECT_DIR$/modules/citrus-integration/citrus-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-java-dsl/citrus-java-dsl.iml" filepath="$PROJECT_DIR$/modules/citrus-java-dsl/citrus-java-dsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-jdbc/citrus-jdbc.iml" filepath="$PROJECT_DIR$/modules/citrus-jdbc/citrus-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-jms/citrus-jms.iml" filepath="$PROJECT_DIR$/modules/citrus-jms/citrus-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-jmx/citrus-jmx.iml" filepath="$PROJECT_DIR$/modules/citrus-jmx/citrus-jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-kafka/citrus-kafka.iml" filepath="$PROJECT_DIR$/modules/citrus-kafka/citrus-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-kubernetes/citrus-kubernetes.iml" filepath="$PROJECT_DIR$/modules/citrus-kubernetes/citrus-kubernetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-mail/citrus-mail.iml" filepath="$PROJECT_DIR$/modules/citrus-mail/citrus-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/maven/citrus-maven.iml" filepath="$PROJECT_DIR$/tools/maven/citrus-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/maven/citrus-maven-plugin/citrus-maven-plugin.iml" filepath="$PROJECT_DIR$/tools/maven/citrus-maven-plugin/citrus-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/maven/citrus-maven-plugin-integration/citrus-maven-plugin-integration.iml" filepath="$PROJECT_DIR$/tools/maven/citrus-maven-plugin-integration/citrus-maven-plugin-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/citrus-model.iml" filepath="$PROJECT_DIR$/modules/citrus-model/citrus-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-camel/citrus-model-camel.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-camel/citrus-model-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-core/citrus-model-core.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-core/citrus-model-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-cucumber/citrus-model-cucumber.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-cucumber/citrus-model-cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-docker/citrus-model-docker.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-docker/citrus-model-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-ftp/citrus-model-ftp.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-ftp/citrus-model-ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-http/citrus-model-http.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-http/citrus-model-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-jdbc/citrus-model-jdbc.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-jdbc/citrus-model-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-jms/citrus-model-jms.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-jms/citrus-model-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-jmx/citrus-model-jmx.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-jmx/citrus-model-jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-kafka/citrus-model-kafka.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-kafka/citrus-model-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-kubernetes/citrus-model-kubernetes.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-kubernetes/citrus-model-kubernetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-mail/citrus-model-mail.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-mail/citrus-model-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-rmi/citrus-model-rmi.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-rmi/citrus-model-rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-selenium/citrus-model-selenium.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-selenium/citrus-model-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-ssh/citrus-model-ssh.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-ssh/citrus-model-ssh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-vertx/citrus-model-vertx.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-vertx/citrus-model-vertx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-websocket/citrus-model-websocket.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-websocket/citrus-model-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-ws/citrus-model-ws.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-ws/citrus-model-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-model/model-zookeeper/citrus-model-zookeeper.iml" filepath="$PROJECT_DIR$/modules/citrus-model/model-zookeeper/citrus-model-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/archetypes/quickstart/citrus-quickstart.iml" filepath="$PROJECT_DIR$/tools/archetypes/quickstart/citrus-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/archetypes/jms/citrus-quickstart-jms.iml" filepath="$PROJECT_DIR$/tools/archetypes/jms/citrus-quickstart-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/archetypes/soap/citrus-quickstart-soap.iml" filepath="$PROJECT_DIR$/tools/archetypes/soap/citrus-quickstart-soap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/remote/citrus-remote.iml" filepath="$PROJECT_DIR$/tools/remote/citrus-remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/remote/citrus-remote-maven-plugin/citrus-remote-maven-plugin.iml" filepath="$PROJECT_DIR$/tools/remote/citrus-remote-maven-plugin/citrus-remote-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/remote/citrus-remote-server/citrus-remote-server.iml" filepath="$PROJECT_DIR$/tools/remote/citrus-remote-server/citrus-remote-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-restdocs/citrus-restdocs.iml" filepath="$PROJECT_DIR$/modules/citrus-restdocs/citrus-restdocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-rmi/citrus-rmi.iml" filepath="$PROJECT_DIR$/modules/citrus-rmi/citrus-rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-selenium/citrus-selenium.iml" filepath="$PROJECT_DIR$/modules/citrus-selenium/citrus-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-ssh/citrus-ssh.iml" filepath="$PROJECT_DIR$/modules/citrus-ssh/citrus-ssh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/test-generator/citrus-test-generator.iml" filepath="$PROJECT_DIR$/tools/test-generator/citrus-test-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/citrus-tools.iml" filepath="$PROJECT_DIR$/tools/citrus-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-vertx/citrus-vertx.iml" filepath="$PROJECT_DIR$/modules/citrus-vertx/citrus-vertx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-websocket/citrus-websocket.iml" filepath="$PROJECT_DIR$/modules/citrus-websocket/citrus-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-ws/citrus-ws.iml" filepath="$PROJECT_DIR$/modules/citrus-ws/citrus-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/citrus-zookeeper/citrus-zookeeper.iml" filepath="$PROJECT_DIR$/modules/citrus-zookeeper/citrus-zookeeper.iml" />
+    </modules>
+  </component>
+</project>

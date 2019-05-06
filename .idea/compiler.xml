@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/tools/archetypes/quickstart/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/tools/archetypes/jms/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/tools/archetypes/soap/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="citrus-rmi" />
+        <module name="citrus-restdocs" />
+        <module name="citrus-docker" />
+        <module name="citrus-http" />
+        <module name="citrus-model-jmx" />
+        <module name="citrus-jmx" />
+        <module name="citrus-ftp" />
+        <module name="citrus-maven-plugin" />
+        <module name="citrus-integration" />
+        <module name="citrus-jms" />
+        <module name="citrus-remote-server" />
+        <module name="citrus-zookeeper" />
+        <module name="citrus-arquillian" />
+        <module name="citrus-jdbc" />
+        <module name="citrus-test-generator" />
+        <module name="citrus-model-ssh" />
+        <module name="citrus-kafka" />
+        <module name="citrus-model-ftp" />
+        <module name="citrus-remote-maven-plugin" />
+        <module name="citrus-model-camel" />
+        <module name="citrus-model-docker" />
+        <module name="citrus-quickstart-soap" />
+        <module name="citrus-ssh" />
+        <module name="citrus-model-selenium" />
+        <module name="citrus-model-vertx" />
+        <module name="citrus-model-core" />
+        <module name="citrus-java-dsl" />
+        <module name="citrus-model-kafka" />
+        <module name="citrus-camel" />
+        <module name="citrus-model-kubernetes" />
+        <module name="citrus-model-jdbc" />
+        <module name="citrus-quickstart-jms" />
+        <module name="citrus-kubernetes" />
+        <module name="citrus-selenium" />
+        <module name="citrus-model-jms" />
+        <module name="citrus-core" />
+        <module name="citrus-model-cucumber" />
+        <module name="citrus-ws" />
+        <module name="citrus-mail" />
+        <module name="citrus-model-websocket" />
+        <module name="citrus-model-rmi" />
+        <module name="citrus-model-zookeeper" />
+        <module name="citrus-model-ws" />
+        <module name="citrus-cucumber" />
+        <module name="citrus-docs-generator" />
+        <module name="citrus-vertx" />
+        <module name="citrus-websocket" />
+        <module name="citrus-model-mail" />
+        <module name="citrus-model-http" />
+        <module name="citrus-quickstart" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="citrus" target="1.5" />
+      <module name="citrus-archetypes" target="1.5" />
+      <module name="citrus-arquillian" target="1.8" />
+      <module name="citrus-bom" target="1.5" />
+      <module name="citrus-camel" target="1.8" />
+      <module name="citrus-core" target="1.8" />
+      <module name="citrus-cucumber" target="1.8" />
+      <module name="citrus-docker" target="1.8" />
+      <module name="citrus-docs-generator" target="1.8" />
+      <module name="citrus-ftp" target="1.8" />
+      <module name="citrus-http" target="1.8" />
+      <module name="citrus-integration" target="1.8" />
+      <module name="citrus-java-dsl" target="1.8" />
+      <module name="citrus-jdbc" target="1.8" />
+      <module name="citrus-jms" target="1.8" />
+      <module name="citrus-jmx" target="1.8" />
+      <module name="citrus-kafka" target="1.8" />
+      <module name="citrus-kubernetes" target="1.8" />
+      <module name="citrus-mail" target="1.8" />
+      <module name="citrus-maven" target="1.5" />
+      <module name="citrus-maven-plugin" target="1.8" />
+      <module name="citrus-maven-plugin-integration" target="1.5" />
+      <module name="citrus-model" target="1.5" />
+      <module name="citrus-model-camel" target="1.8" />
+      <module name="citrus-model-core" target="1.8" />
+      <module name="citrus-model-cucumber" target="1.8" />
+      <module name="citrus-model-docker" target="1.8" />
+      <module name="citrus-model-ftp" target="1.8" />
+      <module name="citrus-model-http" target="1.8" />
+      <module name="citrus-model-jdbc" target="1.8" />
+      <module name="citrus-model-jms" target="1.8" />
+      <module name="citrus-model-jmx" target="1.8" />
+      <module name="citrus-model-kafka" target="1.8" />
+      <module name="citrus-model-kubernetes" target="1.8" />
+      <module name="citrus-model-mail" target="1.8" />
+      <module name="citrus-model-rmi" target="1.8" />
+      <module name="citrus-model-selenium" target="1.8" />
+      <module name="citrus-model-ssh" target="1.8" />
+      <module name="citrus-model-vertx" target="1.8" />
+      <module name="citrus-model-websocket" target="1.8" />
+      <module name="citrus-model-ws" target="1.8" />
+      <module name="citrus-model-zookeeper" target="1.8" />
+      <module name="citrus-quickstart" target="1.8" />
+      <module name="citrus-quickstart-jms" target="1.8" />
+      <module name="citrus-quickstart-soap" target="1.8" />
+      <module name="citrus-remote" target="1.5" />
+      <module name="citrus-remote-maven-plugin" target="1.8" />
+      <module name="citrus-remote-server" target="1.8" />
+      <module name="citrus-restdocs" target="1.8" />
+      <module name="citrus-rmi" target="1.8" />
+      <module name="citrus-selenium" target="1.8" />
+      <module name="citrus-ssh" target="1.8" />
+      <module name="citrus-test-generator" target="1.8" />
+      <module name="citrus-tools" target="1.5" />
+      <module name="citrus-vertx" target="1.8" />
+      <module name="citrus-websocket" target="1.8" />
+      <module name="citrus-ws" target="1.8" />
+      <module name="citrus-zookeeper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
